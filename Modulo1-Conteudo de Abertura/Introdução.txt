@@ -1,0 +1,5 @@
+** Pensamento Computacional
+** Lógica de Programação Essencial
+** Introdução ao Git/Github
+** Projetos Ageis com SCRUM
+** Desafio Git/Github
